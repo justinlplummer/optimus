@@ -12,7 +12,7 @@ const config = {
 
 // create LINE SDK client
 
-const client = new line.Client(config);
+const client = new line.Client("2017dev.accts@gmail.com","bradlee69");
 
 
 // create Express app
